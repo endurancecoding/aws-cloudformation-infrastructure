@@ -354,31 +354,32 @@ Screenshots documenting the deployment and infrastructure are stored in the `scr
 
 Shows the successfully deployed CloudFormation stack and its resources.
 
-![CloudFormation Stack](screenshots/cloudformation-stack.png)
+![image alt](https://github.com/endurancecoding/aws-cloudformation-infrastructure/blob/073affffae0387c0f83d6d5adae6bbe81a7ea642/screenshots/cloudformation-stack.png)
+![image alt](https://github.com/endurancecoding/aws-cloudformation-infrastructure/blob/073affffae0387c0f83d6d5adae6bbe81a7ea642/screenshots/cloudformation-stack%202.png)
 
 ### VPC
 
 Shows the VPC created by CloudFormation.
 
-![VPC](screenshots/vpc.png)
+![image alt](https://github.com/endurancecoding/aws-cloudformation-infrastructure/blob/073affffae0387c0f83d6d5adae6bbe81a7ea642/screenshots/VPC-dashboard.png)
 
 ### Subnets
 
 Shows the public and private subnets created within the VPC.
 
-![Subnets](screenshots/subnets.png)
+![image alt](https://github.com/endurancecoding/aws-cloudformation-infrastructure/blob/073affffae0387c0f83d6d5adae6bbe81a7ea642/screenshots/subnet%20dashboard.png)
 
 ### Route Table
 
 Shows the routing configuration for the public subnet.
 
-![Route Table](screenshots/route-table.png)
+![image alt](https://github.com/endurancecoding/aws-cloudformation-infrastructure/blob/073affffae0387c0f83d6d5adae6bbe81a7ea642/screenshots/Public-route-table.png)
 
 ### EC2 Instance
 
 Shows the EC2 instance provisioned through CloudFormation.
 
-![EC2 Instance](screenshots/ec2-instance.png)
+![image alt](https://github.com/endurancecoding/aws-cloudformation-infrastructure/blob/1347535ef1792797087c59167e4ac5987064ea13/screenshots/ec2-instance.png)
 
 ---
 
